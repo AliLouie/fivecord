@@ -7,7 +7,7 @@ Easy to join server with Discord Button  <br />
 Show Player List  <br />
 Hide Ip server  <br />
 Compatible whitelist commands [bzn_allowlist](https://github.com/AliLouie/bzn_allowlist)  <br />
-Search players info from ESX Database  <br />
+Search players info from ESX Database [requirement](https://github.com/AliLouie/bzn_allowlist)  <br />
 Rcon  <br />
 
 
