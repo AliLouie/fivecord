@@ -22,8 +22,8 @@ Rcon
 [NodeJs](https://nodejs.org/en/)
 
 ## Bot Recommend Setting
-Enable all option of Privileged Gateway Intents
-Bot must have administration role
+Enable all option of Privileged Gateway Intents <br />
+Bot must have administration role <br />
 
 
 ## Installation
