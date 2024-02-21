@@ -13,9 +13,9 @@ Rcon
 
 
 ## Bot Slash Commands
-/addserver, /deleteserver, /setcfx, /toggleip, /togglemonitor, /playerlist, /serverinfo
-/addsteamid, /removesteamid, /searchuser, /rcon
-/help, /ping, /info
+/addserver, /deleteserver, /setcfx, /toggleip, /togglemonitor, /playerlist, /serverinfo  <br />
+/addsteamid, /removesteamid, /searchuser, /rcon  <br />
+/help, /ping, /info  <br />
 
 
 ## Requirements
