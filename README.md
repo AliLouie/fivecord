@@ -2,13 +2,13 @@
 Monitor and manage your Fivem Server using Discord BOT and access it easily!
 
 ## Features
-Monitor Info Server every minute
-Easy to join server with Discord Button
-Show Player List
-Hide Ip server
-Compatible whitelist commands [bzn_allowlist](https://github.com/AliLouie/bzn_allowlist)
-Search players info from ESX Database
-Rcon
+Monitor Info Server every minute  <br />
+Easy to join server with Discord Button  <br />
+Show Player List  <br />
+Hide Ip server  <br />
+Compatible whitelist commands [bzn_allowlist](https://github.com/AliLouie/bzn_allowlist)  <br />
+Search players info from ESX Database  <br />
+Rcon  <br />
 
 
 ## Bot Slash Commands
