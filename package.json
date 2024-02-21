@@ -1,0 +1,22 @@
+{
+  "name": "five-bot",
+  "version": "1.0.0",
+  "description": "FiveCord App",
+  "main": "FiveBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node FiveBot.js"
+  },
+  "author": "AliLouie",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "discord.js": "^14.13.0",
+    "fivem": "^2.1.8",
+    "mysql": "^2.18.1",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.7.0",
+    "quake3-rcon": "^1.0.2",
+    "sequelize": "^6.33.0"
+  }
+}
